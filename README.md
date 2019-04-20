@@ -1,6 +1,6 @@
 # Cknife修改版
 基于Cknife的少幅度修改和增加
-源地址：[https://github.com/Chora10/Cknife](https://github.com/Chora10/Cknife)
+原作者地址：[https://github.com/Chora10/Cknife](https://github.com/Chora10/Cknife)
 
 ## 修改部分
 * 增加PHP Cookie 一句话机制
